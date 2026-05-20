@@ -1,10 +1,10 @@
-# Tic Tac Toe AI
+# Movie Recommendation System
 
-This is a simple Tic Tac Toe game created using Python.
+This is a simple movie recommendation system created using Python.
 
 ## Features
-- User vs Computer
-- Random computer moves
+- Recommends movies based on genre
+- Uses if-else conditions
 - Beginner friendly project
 
 ## Technologies Used
